@@ -1,6 +1,6 @@
 # RTL-PowerLens-Microwatt : Power-Aware Extensions for Microwatt CPU
 
-**Project Overview**
+****Project Overview****
 
 This project integrates RTL-PowerLens, a lightweight AI-assisted framework for real-time power estimation and optimization, into the Microwatt OpenPOWER CPU core. 
 Our goal is to enhance the Microwatt ecosystem by enabling designers and researchers to observe and optimize power consumption at the RTL level — without relying on closed-source EDA tools.
@@ -72,4 +72,5 @@ Unlike traditional design flows, RTL-PowerLens does not merely facilitate buildi
 - Focus: ASIC design, low-power architectures, AI-assisted chip design
 
 **Closing**
+
 This project will make Microwatt not just an open CPU — but a open-source _power-aware_ CPU platform.
