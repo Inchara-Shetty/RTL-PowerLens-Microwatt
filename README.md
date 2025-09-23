@@ -1,4 +1,4 @@
-# EcoWatt : Power-Aware Extensions for Microwatt CPU
+# EcoWatt : RTL Power-Aware Extensions for Microwatt CPU
 
 ****Project Overview****
 
